@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/alvamic/pixieStatic/issues"
   },
-  
+  "start_url": "./public/index.html"
   "dependencies": {
     "body-parser": "1.18.3",
     "express": "4.16.4",
